@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msa45&label=Profile%20views&color=0e75b6&style=flat" alt="msa45" /> </p>
 
-- 🌱 I’m currently learning **C Language, Python, JavaScript, HTML, CSS**
+- 🌱 I’m currently learning => **C Language, Python, JavaScript, HTML, CSS**
 
 - 📫 You can reach me by email => **syauqy.arrayyan@gmail.com**
 
-- 📄 Know about my experiences [https://portofoliomsa.wordpress.com/](https://portofoliomsa.wordpress.com/)
+- 📄 Know about my experiences => [https://portofoliomsa.wordpress.com/](https://portofoliomsa.wordpress.com/)
 
 - ⚡ Fun fact about me: **I'm in love with cars**
 
@@ -17,7 +17,7 @@
 <a href="https://linkedin.com/in/muhammad syauqy arrayyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad syauqy arrayyan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/26428763" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="syauqy arrayyan" height="30" width="40" /></a>
 <a href="https://instagram.com/m.s.a_photograph" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.s.a_photograph" height="30" width="40" /></a>
-<a href="https://discord.gg/msa45_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="msa45_" height="30" width="40" /></a>
+<a href="[https://discord.gg/msa45_](https://discord.gg/ZN37UnR)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="msa45_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
