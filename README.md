@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences => [https://portofoliomsa.wordpress.com/](https://portofoliomsa.wordpress.com/)
 
-- ⚡ Fun fact about me: **I'm in love with cars**
+- ⚡ Fun fact about me: **I love cars and motorcycle**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
