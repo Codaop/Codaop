@@ -1,8 +1,6 @@
 <h1 align="center">Hi there! call me Syauqy!</h1>
 <h3 align="center">A programmer who wants to contribute to the environment by creating useful things with programming.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=msa45&label=Profile%20views&color=0e75b6&style=flat" alt="msa45" /> </p>
-
 - 🌱 I’m currently learning => **C Language, Python, JavaScript, HTML, CSS**
 
 - 📫 You can reach me by email => **syauqy.arrayyan@gmail.com**
