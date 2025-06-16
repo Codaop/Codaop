@@ -1,6 +1,5 @@
 <h1 align="center">Hi there! call me Syauqy!</h1>
 <h3 align="center">A programmer who wants to contribute to the environment by creating useful things with programming.</h3>
-<img align="right" alt="GIF Readme" width="400" src="https://github.com/user-attachments/assets/bc40fdef-8ffb-467a-8937-f0e4a62eb910">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msa45&label=Profile%20views&color=0e75b6&style=flat" alt="msa45" /> </p>
 
