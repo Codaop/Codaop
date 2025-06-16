@@ -1,9 +1,10 @@
 <h1 align="center">Hi there! call me Syauqy!</h1>
 <h3 align="center">A programmer who wants to contribute to the environment by creating useful things with programming.</h3>
 
+<h2>BISMILLAH LAMBO DARI PHP!</h2>
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3l5c2YwZXpiNHEweTRyaWFjNnlqNzM1eTlsd2lqbnUycDhoc3dsaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/O58wTsoBqBqMw/giphy.gif">
 
-- 🌱 I’m currently learning => **C Language, Python, JavaScript, HTML, CSS**
+- 🌱 I’m currently learning => **Python, JavaScript, HTML, CSS, PHP**
 
 - 📫 You can reach me by email => **syauqy.arrayyan@gmail.com**
 
